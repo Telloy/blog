@@ -1,5 +1,4 @@
-{
-  "framework": "hugo",
-  "buildCommand": "hugo --gc",
-  "outputDirectory": "public"
+﻿{
+  "outputDirectory": "public",
+  "cleanUrls": true
 }
