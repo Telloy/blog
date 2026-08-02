@@ -1,0 +1,29 @@
+﻿baseURL: https://czyc.cc/
+languageCode: zh-cn
+title: "Czyc's Blog"
+theme: PaperMod
+
+params:
+  profileMode:
+    enabled: true
+    title: "Czyc's Blog"
+    subtitle: "记录与思考"
+  socialIcons:
+    - name: github
+      url: "https://github.com/"
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowToc: false
+  defaultTheme: auto
+
+menu:
+  main:
+    - name: 归档
+      url: archives
+      weight: 10
+    - name: 标签
+      url: tags
+      weight: 20
