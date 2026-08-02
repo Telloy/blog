@@ -1,12 +1,12 @@
 ﻿baseURL: https://czyc.cc/
 languageCode: zh-cn
-title: "Czyc's Blog"
+title: "Telloy's Blog"
 theme: PaperMod
 
 params:
   profileMode:
     enabled: true
-    title: "Czyc's Blog"
+    title: "Telloy's Blog"
     subtitle: "记录与思考"
   socialIcons:
     - name: github
