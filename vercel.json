@@ -1,6 +1,6 @@
 ﻿{
   "framework": null,
+  "buildCommand": "curl -L -o hugo.tar.gz https://github.com/gohugoio/hugo/releases/download/v0.146.7/hugo_extended_0.146.7_linux-amd64.tar.gz && tar xzf hugo.tar.gz && ./hugo --gc --minify",
   "outputDirectory": "public",
-  "cleanUrls": true,
-  "installCommand": ""
+  "cleanUrls": true
 }
