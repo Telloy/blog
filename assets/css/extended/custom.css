@@ -1,0 +1,16 @@
+﻿/* 缩小 GitHub 等社交图标 */
+.social-icons a svg {
+    width: 24px !important;
+    height: 24px !important;
+}
+
+/* 缩小回到顶部按钮 */
+.top-link {
+    width: 36px !important;
+    height: 36px !important;
+}
+
+.top-link svg {
+    width: 18px !important;
+    height: 18px !important;
+}
